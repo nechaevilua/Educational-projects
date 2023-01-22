@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function(){
 		theBody.classList.toggle("OffCanvas-Active");
 	}
 	// When the header is clicked we fire the function to toggle the class
-	document.querySelector(".Header").addEventListener("click", toggleClass );
+	document.querySelector(".hamburger").addEventListener("click", toggleClass );
 
 	// The section below merely deals with resize events
 

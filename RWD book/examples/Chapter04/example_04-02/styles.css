@@ -84,3 +84,9 @@ body {
 	width: 100%;
 	background-color: #025059;
 }
+
+.hamburger {
+	float: right;
+	margin: 2% 2% 0 0;
+	
+}
