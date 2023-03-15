@@ -12,7 +12,7 @@ body {
   flex-direction: column;
 }
 
-.FlexItems {
+.FlexItem {
   display: flex;
   align-items: center;
   min-height: 6.25rem;
