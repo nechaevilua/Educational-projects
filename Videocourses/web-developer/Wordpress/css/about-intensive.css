@@ -1,0 +1,21 @@
+.waiting {
+  height: 604px;
+  background-color: #efefef;
+}
+
+.waiting .waiting_header {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #252525;
+  padding-top: 85px;
+}
+
+
+
+

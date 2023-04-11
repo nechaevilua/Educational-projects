@@ -18,7 +18,7 @@
 [class^=grid-item] {
   outline: 1px #f90 dashed;
   display: grid;
-  background-color: goldenrod;
+  background-color: #daa520;
   align-items: center;
   justify-content: center;
 }
